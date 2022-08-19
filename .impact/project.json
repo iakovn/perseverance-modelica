@@ -1,0 +1,66 @@
+{
+  "name": "perseverance-modelica",
+  "dependencies": [
+    {
+      "name": "MSL",
+      "versionSpecifier": "3.2.3"
+    },
+    {
+      "name": "Modelon",
+      "versionSpecifier": "3.7.0"
+    },
+    {
+      "name": "VehicleDynamics",
+      "versionSpecifier": "3.7.0"
+    },
+    {
+      "name": "Electrification",
+      "versionSpecifier": "1.6.0"
+    }
+  ],
+  "content": [
+    {
+      "id": "0e07089a52884037944f025cece44a42",
+      "relpath": "ExampleModels",
+      "contentType": "MODELICA",
+      "name": "ExampleModels"
+    },
+    {
+      "id": "ef5b296c63ce49058ecafea17a1aecb4",
+      "relpath": "Ingenuity",
+      "contentType": "MODELICA",
+      "name": "Ingenuity"
+    },
+    {
+      "id": "920eacef3c5b4b37a84fa0a09aaa8d0d",
+      "relpath": "Perseverance",
+      "contentType": "MODELICA",
+      "name": "Perseverance"
+    },
+    {
+      "id": "14e0d382d5a84a30a40361d3298910fd",
+      "relpath": "Resources/Views",
+      "contentType": "VIEWS"
+    },
+    {
+      "id": "d83647f5c17f4ad3aad8452c8a42a37f",
+      "relpath": "Resources/Favourites",
+      "contentType": "FAVOURITES"
+    },
+    {
+      "id": "7f6b465215214664b7abd201eec6ac0b",
+      "relpath": "Resources/CustomFunctions",
+      "contentType": "CUSTOM_FUNCTIONS"
+    },
+    {
+      "id": "89803b928fd44ebda1945a5ec43df1cf",
+      "relpath": "Resources/Custom",
+      "contentType": "GENERIC"
+    },
+    {
+      "id": "d381ca2f096e439b80c25f39e7554aa0",
+      "relpath": "ReferenceResults",
+      "contentType": "REFERENCE_RESULTS"
+    }
+  ]
+}
